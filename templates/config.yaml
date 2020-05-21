@@ -1,0 +1,6 @@
+ide-theme:
+  extension: .theme.json
+  output: ide-themes
+editor-theme:
+  extension: .icls
+  output: editor-themes
