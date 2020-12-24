@@ -1,6 +1,6 @@
 # base16-jetbrains-ide
 
-This repository contains [Base16](https://github.com/chriskempson/base16) themes for Jetbrains IDEs. Unlike [base16-jetbrains](https://github.com/adilosa/base16-jetbrains), this repository contains themes for the entire IDE. It also has an updated editor scheme which I'm pulling into [base16-jetbrains](https://github.com/adilosa/base16-jetbrains).
+This repository contains [Base16](https://github.com/chriskempson/base16) themes for Jetbrains IDEs. Unlike [base16-jetbrains](https://github.com/adilosa/base16-jetbrains), this repository contains themes for the entire IDE. 
 
 ## Installation
 
