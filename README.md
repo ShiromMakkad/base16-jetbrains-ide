@@ -4,7 +4,7 @@ This repository contains [Base16](https://github.com/chriskempson/base16) themes
 
 ## Installation
 
-1. Download the `.jar` file for your theme from `templates/`
+1. Download the `.jar` file for your theme from `themes/`
 2. In IntelliJ (or another Jetbrains IDE), Go to `File > Settings > Plugins`
 3. At the top, there should be a `marketplace` tab, an `installed` tab, and three dots, click on the three dots
 4. Click `Install Plugin from Disk...`
