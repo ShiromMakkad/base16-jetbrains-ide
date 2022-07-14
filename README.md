@@ -1,6 +1,6 @@
 # base16-jetbrains-ide
 
-This repository contains [Base16](https://github.com/chriskempson/base16) themes for Jetbrains IDEs. Unlike [base16-jetbrains](https://github.com/adilosa/base16-jetbrains), this repository contains themes for the entire IDE. 
+This repository contains [Base16](https://github.com/chriskempson/base16) themes for Jetbrains IDEs. Unlike [base16-jetbrains](https://github.com/adilosa/base16-jetbrains), this repository contains themes for the entire IDE. This template was made from the [Monokai Pro](https://github.com/subtheme-dev/monokai-pro) theme.
 
 ## Installation
 
